@@ -27,6 +27,14 @@ const Navbar: React.FC = () => {
     return () => document.removeEventListener('mousedown', handleClickOutside);
   }, []);
 
+  useEffect(() => {
+    if (isOpen) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = 'unset';
+    }
+  }, [isOpen]);
+
   const handleLogout = () => {
     logout();
     setIsUserMenuOpen(false);
