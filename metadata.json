@@ -1,0 +1,8 @@
+{
+  "name": "DOCON 2026 - National Medical Conference",
+  "description": "A premium, high-end dark-themed platform for the National Conference of Obstetrics & Gynecology, featuring auth-protected registration, scientific programs, and faculty management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
