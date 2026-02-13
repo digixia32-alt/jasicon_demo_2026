@@ -47,7 +47,7 @@ const Navbar: React.FC = () => {
       <div className="max-w-[1440px] mx-auto px-4 sm:px-8">
         <div className="flex items-center justify-between h-16 sm:h-20">
           <Link to="/" className="flex items-center group shrink-0">
-            <img src="/public/assets/logo.png" alt="Jasicon 2026" className="h-16 sm:h-16 w-auto object-contain transition-opacity hover:opacity-90" />
+            <img src="/assets/logo.png" alt="Jasicon 2026" className="h-16 sm:h-16 w-auto object-contain transition-opacity hover:opacity-90" />
           </Link>
 
           {/* Desktop Nav */}

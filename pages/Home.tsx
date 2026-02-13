@@ -5,7 +5,7 @@ import { ChevronRight, ArrowLeft, ArrowRight } from 'lucide-react';
 
 const HERO_IMAGES = [
   {
-    url: "./public/assets/a.png",
+    url: "/assets/a.png",
     title: "The Gateway",
     sub: "Deoghar International Airport"
   },
