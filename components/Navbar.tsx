@@ -101,7 +101,7 @@ const Navbar: React.FC = () => {
 
       {/* Mobile Menu */}
       {isOpen && (
-        <div className="xl:hidden bg-[#121826] border-b border-[#1F2937] px-4 py-8 space-y-3 animate-fade-in-up fixed top-16 left-0 right-0 max-h-[calc(100vh-4rem)] overflow-y-auto">
+        <div className="xl:hidden bg-[#121826]/90 backdrop-blur-md border-b border-[#1F2937] px-4 py-8 space-y-3 animate-fade-in-up fixed top-16 left-0 right-0 h-[calc(100vh-4rem)] overflow-y-auto">
           {navLinks.map((link) => (
             <Link
               key={link.name}
