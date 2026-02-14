@@ -33,10 +33,10 @@ const About: React.FC = () => {
             <h1 className="text-4xl md:text-6xl font-bold serif text-[#C9A24D] mb-4 md:mb-8">About Jasicon 2026</h1>
             <div className="space-y-4 md:space-y-6 text-[#E6EAF0] text-sm md:text-lg leading-relaxed">
               <p className="text-xl md:text-2xl italic font-light serif text-[#9AA4B2] border-l-4 border-[#C9A24D] pl-4 md:pl-6">
-                "Pioneering the future of women's healthcare through surgical innovation."
+                "Pioneering the Future of Surgical Excellence Through Innovation."
               </p>
-              <p>The National Conference of Obstetrics & Gynecology (Jasicon) is India's premier forum for academic exchange. For the 2026 edition, we are proud to host our gathering in a location of deep heritage and significance.</p>
-              <p>Our focus this year is <span className="text-[#C9A24D] font-bold">"Technological Advancements in Fetal Medicine,"</span> highlighting the intersection of robotic surgery, genomic diagnostics, and global maternal health policies.</p>
+              <p>The National Conference of General Surgeons (JASICON) is one of India’s foremost academic forums dedicated to advancing the science and practice of general and minimally invasive surgery. It serves as a vital platform for surgeons, academicians, and trainees to exchange knowledge, share experience, and discuss evolving surgical challenges.</p>
+              <p>The central theme for this edition, <span className="text-[#C9A24D] font-bold">"Technological Advancements in Modern Surgery,"</span> highlights the rapid transformation of surgical practice through robotic-assisted procedures, advanced laparoscopy, image-guided interventions, artificial intelligence in surgery, precision diagnostics, and enhanced perioperative care.</p>
             </div>
           </div>
 
