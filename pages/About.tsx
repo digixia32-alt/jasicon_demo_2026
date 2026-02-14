@@ -42,7 +42,7 @@ const About: React.FC = () => {
 
           <div className="grid grid-cols-2 gap-4 md:gap-8 animate-fade-in-up delay-2">
             <div className="p-6 md:p-8 bg-[#121826] rounded-2xl md:rounded-3xl border border-[#1F2937] hover:border-[#C9A24D]/50 transition-all group">
-              <h5 className="text-3xl md:text-5xl font-bold text-[#C9A24D] group-hover:scale-110 transition-transform">5000+</h5>
+              <h5 className="text-3xl md:text-5xl font-bold text-[#C9A24D] group-hover:scale-110 transition-transform">500+</h5>
               <p className="text-[8px] md:text-xs uppercase tracking-[0.2em] text-[#9AA4B2] mt-2 font-bold">Global Delegates</p>
             </div>
             <div className="p-6 md:p-8 bg-[#121826] rounded-2xl md:rounded-3xl border border-[#1F2937] hover:border-[#C9A24D]/50 transition-all group">
